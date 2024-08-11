@@ -6,8 +6,6 @@ Project Description:
 
 A Flutter application built using GetX for state management, the http package for API integration, and shared_preferences for persisting the last selected language. The app leverages flutter_localizations to provide seamless language translation, ensuring a smooth and localized user experience.
 
-You can add this to your README to highlight the key technologies and features of your project.
-
 ## Screenshots
 
 <table>
