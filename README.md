@@ -1,4 +1,4 @@
-# sample
+# TranslateEase
 
 A Language Translation.
 
